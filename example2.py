@@ -1,4 +1,4 @@
-Name=("Babu")
+Name=("Alin")
 print("hello, " + Name)
 
 print(Name[0])
