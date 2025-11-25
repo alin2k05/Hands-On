@@ -1,5 +1,5 @@
-a=input("input first number= ")
-b=input("input second number= ")
+a=input("Enter first number= ")
+b=input("Enter second number= ")
 
 add=(int(a)+int(b))
 print("addition=",add)
